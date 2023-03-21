@@ -1,0 +1,8 @@
+{
+  "name": "test_sample_blck12",
+  "type": "appBlock",
+  "source": {
+    "https": "https://github.com/aakashtm/test_sample_blck12",
+    "ssh": "git@github.com:aakashtm/test_sample_blck12.git"
+  }
+}
